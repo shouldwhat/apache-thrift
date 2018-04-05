@@ -16,7 +16,7 @@
 ```
 ---
 
-* **이용 **
+* **이용 방법**
 ```
 	1. Thrift Description 파일 작성 (.thrift)
 	
